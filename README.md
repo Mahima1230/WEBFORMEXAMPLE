@@ -1,4 +1,4 @@
-# WEBFORMEXAMPLE
+# WEBFORMEXAMPLE 
 The project describes features of JSONPowerDB and uses of CRUD operations on a small webform page.
 
 **JsonPowerDB:-**
@@ -13,3 +13,5 @@ It helps developers in faster coding, in-turn reduces development cost.
 
 
 **Screenshots**
+![Screenshot (174)](https://user-images.githubusercontent.com/60925793/107484359-52a2a280-6ba8-11eb-9224-282a1930fc2f.png)
+![Screenshot (176)](https://user-images.githubusercontent.com/60925793/107484368-533b3900-6ba8-11eb-8d63-43da9fc76ed0.png)
